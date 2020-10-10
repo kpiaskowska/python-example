@@ -11,6 +11,7 @@ def say_what():
 
 
 def main():
+    print("Karolina")
     hello(say_what())
     return 0
 
